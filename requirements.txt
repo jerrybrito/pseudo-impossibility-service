@@ -1,0 +1,2 @@
+# Requires: forgotten-stillness
+# (Not available on PyPI)
